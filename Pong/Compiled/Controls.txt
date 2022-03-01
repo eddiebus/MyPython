@@ -1,0 +1,2 @@
+[W] and [S] to move Player 1
+[Up_Arrow] and [Down_Arrow] to move player 2  
