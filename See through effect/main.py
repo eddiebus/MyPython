@@ -68,10 +68,12 @@ class window:
         if window.focus:
             window.scene.paint(window.display)
 
+        """
         window.display.blit(
             window.font.render("FPS = {0}".format(window.fps),0,(255,0,0),None),
             (0,0)
             )
+        """
         pygame.display.flip()
 
 
