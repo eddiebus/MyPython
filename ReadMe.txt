@@ -1,2 +1,1 @@
-Things I've made in pyhton.
-When running the code please install PyGame and PyDub packages
+When running the code please PyGame and PyDub packages
